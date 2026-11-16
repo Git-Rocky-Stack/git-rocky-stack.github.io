@@ -1,0 +1,7 @@
+# git-rocky-stack.github.io hosts the GitHub Pages sites of the Git-Rocky-Stack account. Crawlers read robots.txt only
+# here, at the root of the host, so this is where each site's sitemap is listed. Search engines and AI crawlers are welcome.
+User-agent: *
+Allow: /
+
+Sitemap: https://git-rocky-stack.github.io/STX-Downloader/sitemap.xml
+Sitemap: https://git-rocky-stack.github.io/sysmonitor-windows/sitemap.xml
